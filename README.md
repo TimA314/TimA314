@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TimA314
 - 👀 I’m interested in software engineering 
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning ASP.NET#
 - 💞️ I’m looking to collaborate on open source projects
 
 <!---
