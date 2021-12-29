@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TimA314
-- 👀 I’m interested in software engineering 
-- 🌱 I’m currently learning .NET
+- 👀 I’m interested in building useful software 
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on open source projects
 
 <!---
