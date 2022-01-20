@@ -1,14 +1,10 @@
+
+<img src="https://coverfiles.alphacoders.com/401/40138.jpg"/>
+
 - 👋 Hi, I’m @TimA314
 - 👀 I’m interested in building useful software 
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on open source projects
-
-<!---
-TimA314/TimA314 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-<img src="https://coverfiles.alphacoders.com/401/40138.jpg"/>
  
 ### Hi there 👋, I'm Tim Amburn. I'm a Web developer. Welcome to my gh page! <br>
  
