@@ -6,7 +6,7 @@
  
 Resume:  [Tim Amburn Resume](https://bit.ly/3KpX0Zc)
  
-🌱 *Currently Learning*: React-Native. <br>
+🌱 *Currently Learning*: Redux. <br>
 💞️ I’m looking to collaborate on open source projects <br>
 🤔 *Looking for help*: I'm looking for help with trying to find my first software engineering job.<br>
 💬 Ask me about: how to create a portfolio site for you, or assistance with an application you are working on. <br>
