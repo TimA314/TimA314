@@ -4,7 +4,7 @@
  
 ### Hi there 👋, I'm Tim Amburn. I'm a Web developer. Welcome to my gh page! <br>
  
-Resume:  [Tim Amburn Resume](https://bit.ly/3KpX0Zc)
+Resume:  [Tim Amburn Resume](https://www.yumpu.com/en/document/read/66248654/timothy-amburn-resume)
  
 🌱 *Currently Learning*: *Redux Toolkit* <br>
 💞️ I’m looking to collaborate on open source projects <br>
