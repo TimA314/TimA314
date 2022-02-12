@@ -6,7 +6,7 @@
  
 Resume:  [Tim Amburn Resume](https://www.yumpu.com/en/document/read/66248654/timothy-amburn-resume)
  
-🌱 *Currently Learning*: *Redux Toolkit* <br>
+🌱 *Currently Learning*: *Blazor* <br>
 💞️ I’m looking to collaborate on open source projects <br>
 💬 Ask me about: how to create a portfolio site for you, or assistance with an application you are working on. <br>
 📫 How to reach me: <br>
