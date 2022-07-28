@@ -1,7 +1,4 @@
 
-<img src="https://coverfiles.alphacoders.com/401/40138.jpg"/>
-
- 
 ### Hi there 👋, I'm Tim Amburn. I'm a Web developer. Welcome to my gh page! <br>
  
 Resume:  [Tim Amburn Resume](https://www.yumpu.com/en/document/read/66248654/timothy-amburn-resume)
