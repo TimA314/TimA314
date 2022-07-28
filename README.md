@@ -1,5 +1,7 @@
+![Header](./github-header-image.png)
 
-### Hi there 👋, I'm Tim Amburn. I'm a Web developer. Welcome to my gh page! <br>
+
+### Welcome to my gh page! <br>
  
 Resume:  [Tim Amburn Resume](https://www.yumpu.com/en/document/read/66248654/timothy-amburn-resume)
  
