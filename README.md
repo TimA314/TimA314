@@ -3,8 +3,6 @@
 
 ### Welcome to my gh page! <br>
  
-Resume:  [Tim Amburn Resume](https://www.yumpu.com/en/document/read/66248654/timothy-amburn-resume)
- 
 :desktop_computer: I’m looking to collaborate on open source projects <br>
 📫 How to reach me: <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Email](timothyamburn@dev1.mailer.me) <br>
